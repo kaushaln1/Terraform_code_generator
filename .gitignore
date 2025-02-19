@@ -1,0 +1,7 @@
+.terraform/
+.idea/
+sandbox/
+vector_db/
+.env
+**__init__**
+**__pycache__**
